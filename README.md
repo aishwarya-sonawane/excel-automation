@@ -63,4 +63,4 @@ The manual version of these tasks isn't hard. It's just slow, error-prone, and n
 ## Author
 
 **Aishwarya Sonawane**  
-[Portfolio](https://aishwaryasanjaysonawane-a11y.github.io/Portfolio/) · [LinkedIn](https://linkedin.com/in/aishwarya-sonawane)
+[Portfolio](https://aishwaryasanjaysonawane-a11y.github.io/Portfolio/) · [LinkedIn](www.linkedin.com/in/aishwarya-s18)
